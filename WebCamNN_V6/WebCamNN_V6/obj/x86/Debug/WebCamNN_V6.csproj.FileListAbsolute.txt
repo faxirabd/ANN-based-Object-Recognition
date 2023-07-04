@@ -1,0 +1,14 @@
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.Properties.Resources.resources
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.Form1.resources
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\bin\Debug\WebCamNN_V6.exe
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\bin\Debug\WebCamNN_V6.pdb
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\bin\Debug\DirectShowLib-2005.dll
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.exe
+L:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.pdb
+D:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.exe
+D:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.pdb
+C:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.exe
+C:\SoranUniversity\MyLectures\Projects\ArtificialEntelegents\MyProjects\WebCamNN_V6\WebCamNN_V6\obj\x86\Debug\WebCamNN_V6.pdb
