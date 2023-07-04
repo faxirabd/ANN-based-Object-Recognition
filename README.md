@@ -1,4 +1,4 @@
-# ANN-based-Object-Recognition
+# Artificial-Neural-Network-from-Scratch
 Artificial Neural Network based Object recognition built from scratch! To understand backpropagation and perceptron's (activation functions) 
 
 ![image](https://github.com/faxirabd/ANN-based-Object-Recognition/assets/115953037/69c72897-b245-4f97-aadf-73970ce285e7)
