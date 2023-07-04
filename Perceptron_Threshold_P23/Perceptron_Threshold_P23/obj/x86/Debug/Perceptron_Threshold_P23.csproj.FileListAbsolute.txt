@@ -1,0 +1,13 @@
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\bin\Debug\Perceptron_Threshold_P23.exe
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\bin\Debug\Perceptron_Threshold_P23.pdb
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\MainWindow.baml
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\MainWindow.g.cs
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\App.g.cs
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\Perceptron_Threshold_P23_MarkupCompile.cache
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\Perceptron_Threshold_P23.g.resources
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\Perceptron_Threshold_P23.Properties.Resources.resources
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\Perceptron_Threshold_P23.exe
+C:\MyLectures\Projects\ArtificialEntelegents\MyProjects\Perceptron_Threshold_P23\Perceptron_Threshold_P23\obj\x86\Debug\Perceptron_Threshold_P23.pdb

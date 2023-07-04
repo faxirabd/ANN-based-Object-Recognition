@@ -1,0 +1,31 @@
+﻿<Window x:Class="Perceptron_Threshold_P23.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="461" Width="525" Loaded="Window_Loaded">
+    <Grid ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="201*" />
+            <RowDefinition Height="110*" />
+        </Grid.RowDefinitions>
+        <TextBox Height="23" Margin="38,111,0,0" Name="txb_input1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="36" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="38,163,0,0" Name="txb_input2" VerticalAlignment="Top" Width="36" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="101,111,0,0" Name="txb_weight1" VerticalAlignment="Top" Width="36" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="101,163,0,0" Name="txb_weight2" VerticalAlignment="Top" Width="36" />
+        <Label Content="Inputs" Height="28" HorizontalAlignment="Left" Margin="38,77,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="weights" Height="28" HorizontalAlignment="Left" Margin="94,77,0,0" Name="label1" VerticalAlignment="Top" />
+        
+        <Ellipse MouseDown="ellipse1_MouseDown" Fill="Red"  Height="50" HorizontalAlignment="Left" Margin="173,123,0,0" Name="ellipse1" Stroke="Black"
+                 VerticalAlignment="Top" Width="50" />
+        
+        <Label Content="---" Height="28" HorizontalAlignment="Left" Margin="259,131,0,0" Name="lbl_output" VerticalAlignment="Top" />
+        <Label Content="Output" Height="28" HorizontalAlignment="Left" Margin="259,77,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="179,46,0,0" Name="txb_bias" VerticalAlignment="Top" Width="36" />
+        <Label Content="Threshold" Height="28" HorizontalAlignment="Left" Margin="172,12,0,0" Name="label5" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="38,51,0,0" Name="txb_inputpattern1" VerticalAlignment="Top" Width="36" Grid.Row="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="38,103,0,0" Name="txb_inputpattern2" VerticalAlignment="Top" Width="36" Grid.Row="1" />
+        <Label Content="Input Pattern" Height="28" HorizontalAlignment="Left" Margin="38,17,0,0" Name="label3" VerticalAlignment="Top" Grid.Row="1" Width="81" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="179,76,0,0" Name="txb_desiredoutput" VerticalAlignment="Top" Width="36" Grid.Row="1" />
+        <Label Content="Desired Output" Height="28" HorizontalAlignment="Left" Margin="179,42,0,0" Name="label6" VerticalAlignment="Top" Grid.Row="1" />
+        <Button Content="Train" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="355,77,0,0" Name="btn_train" VerticalAlignment="Top" Width="75" Click="btn_train_Click" />
+    </Grid>
+</Window>
